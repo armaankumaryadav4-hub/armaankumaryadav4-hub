@@ -144,3 +144,6 @@ A personal expense tracking application.
 <h4 align="center">
   "Code. Learn. Build. Repeat."
 </h4>
+## 📊 GitHub Contribution Graph
+
+![Armaan's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=armaankumaryadav4-hub&theme=tokyo-night)
